@@ -27,4 +27,4 @@ Examples for a small genetic algorithm framework written using Java 8 features
 
 ---
 
-SmallEvo and its exmaples are released as open source under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).  
+SmallEvo and its examples are released as open source under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).  
